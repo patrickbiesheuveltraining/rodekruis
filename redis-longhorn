@@ -10,5 +10,8 @@ https://rpi4cluster.com/k3s/k3s-nodes-setting/
 KUBERNETES SECRETS
 https://kubernetes.io/docs/tasks/configmap-secret/managing-secret-using-kubectl/
 
-/app/Apconfig locatie voor de JSONS
+/app/Apconfig locatie voor de JSONS in de configuation map
 
+redis configuratie voor chipsoft applicatie in careportal.global.json
+
+service-careportal.yml bescrijft het endpoint wat gebruik wordt.
