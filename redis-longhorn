@@ -6,3 +6,9 @@ https://rpi4cluster.com/k3s/k3s-docker/
 
 ANSIBLE
 https://rpi4cluster.com/k3s/k3s-nodes-setting/
+
+KUBERNETES SECRETS
+https://kubernetes.io/docs/tasks/configmap-secret/managing-secret-using-kubectl/
+
+/app/Apconfig locatie voor de JSONS
+
